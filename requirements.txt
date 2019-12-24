@@ -27,7 +27,7 @@ djangorestframework==3.9.0
 djangorestframework-stubs==1.0.0
 get==2019.4.13
 html5lib==1.0.1
-httpie==1.0.2
+httpie==1.0.3
 idna==2.8
 importlib-metadata==0.18
 itypes==1.1.0
